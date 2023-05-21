@@ -1,5 +1,5 @@
-# cypress-sauce-demo-automation
-saucedemo.com test automation with Cypress 10+
+# cypress-cucumber-saucedemo
+saucedemo.com test automation with Cypress 10+ and Cucumber
 
 ## Prerequisites
 - NodeJS `https://nodejs.org/en/download` 
@@ -7,7 +7,7 @@ saucedemo.com test automation with Cypress 10+
 
 ## Project Folder Structure
 
-![FoldeStructure drawio](https://github.com/ysfclskn/cypress-sauce-demo-automation/assets/13632583/00c6a6df-4c7a-4871-aced-78a534e54683)
+![FoldeStructure drawio (1)](https://github.com/ysfclskn/cypress-cucumber-saucedemo/assets/13632583/61328502-1373-43b0-9d0d-0e4567994234)
 
 
 ## Run
