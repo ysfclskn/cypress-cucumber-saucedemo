@@ -1,3 +1,4 @@
+import { Given, When, And, Then } from 'cypress-cucumber-preprocessor/steps'
 import productListPage from "../pages/productListPage";
 
 And('add product to cart', function () {

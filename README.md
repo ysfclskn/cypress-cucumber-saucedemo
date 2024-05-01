@@ -7,7 +7,20 @@ saucedemo.com test automation with Cypress 10+ and Cucumber
 
 ## Project Folder Structure
 
-![FoldeStructure drawio (1)](https://github.com/ysfclskn/cypress-cucumber-saucedemo/assets/13632583/61328502-1373-43b0-9d0d-0e4567994234)
+```
+📦 cypress-cucumber-saucedemo
+├─ cypress
+│  ├─ e2e
+│  │  └─ features --> Scenarios
+│  ├─ plugins
+│  │  └─ index.js  --> cypress plugins ( e.g Cucumber )
+│  └─ support
+│     ├─ pages --> Javascript Methods
+│     ├─ steps --> Step Definations
+│     └─ command.js --> Helper Methods
+├─ cypress.config.js --> Contains cypress configuration
+└─ package.json --> Contains the project's dependencies, commands and other project information.
+```
 
 
 ## Run

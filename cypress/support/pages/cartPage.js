@@ -1,7 +1,6 @@
 const elements = {
     badgeShoppingCart : '.shopping_cart_badge',
     textProductName : '.inventory_item_name'
-
 }
 
 class cartPage {
